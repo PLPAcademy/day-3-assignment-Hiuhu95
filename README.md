@@ -70,7 +70,7 @@ What is the purpose of a virtual environment in Python?
 
 A) To keep your projects organized in one folder
 B) To install Python in a different directory
-## C) To separate project dependencies and avoid conflicts ✓
+C) To separate project dependencies and avoid conflicts ✓
 D) To enhance Python performance on your system
 
 #MySQL Installation
